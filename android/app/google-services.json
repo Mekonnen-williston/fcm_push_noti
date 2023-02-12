@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594215445601",
+    "project_id": "fcm-push-noti-2a4fa",
+    "storage_bucket": "fcm-push-noti-2a4fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594215445601:android:b144993efdcd089b3e7620",
+        "android_client_info": {
+          "package_name": "com.example.fcm_push_noti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594215445601-s6pk4e4e98cqj2t7gb51j9b73nbnku56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg0ImIiJS2D8osHDFIg858u2RpuhJ9NSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594215445601-s6pk4e4e98cqj2t7gb51j9b73nbnku56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
